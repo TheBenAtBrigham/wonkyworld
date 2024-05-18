@@ -13,15 +13,14 @@
 # Development Environment
 
 {Describe the tools that you used to develop the software}
-
-{Describe the programming language that you used and any libraries.}
+This project was created as an empty project in the GameMaker Engine and was written entirely in the Engine's proprietary coding language GML Code, which is similar to C#. This project did NOT use the drag and drop method known as GML Visual. 
 
 # Useful Websites
 
 {Make a list of websites that you found helpful in this project}
 * [YouTube](https://www.youtube.com/)
 * [GameMaker Community](https://forum.gamemaker.io/index.php)
-* [Github] (https://github.com) - A very special shout out to [Bennett Foddy] (https://github.com/NYUGameCenter/GameMaker-Git-Config)!
+* [Github](https://github.com) - A very special shout out to [Bennett Foddy](https://github.com/NYUGameCenter/GameMaker-Git-Config)! Who inspired some of this games mechanics.
 
 # Future Work
 
