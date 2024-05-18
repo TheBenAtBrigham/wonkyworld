@@ -19,12 +19,11 @@
 # Useful Websites
 
 {Make a list of websites that you found helpful in this project}
-* [Web Site Name](http://url.link.goes.here)
-* [Web Site Name](http://url.link.goes.here)
+* [YouTube](https://www.youtube.com/)
+* [GameMaker Community](https://forum.gamemaker.io/index.php)
 
 # Future Work
 
-{Make a list of things that you need to fix, improve, and add in the future.}
-* Item 1
-* Item 2
-* Item 3
+* Improve enemy and player collisions with slopes.
+* Make flying hammer not stick to ground.
+* Add UI to indicate the amount of lives the player has or what level it is.
