@@ -1,0 +1,1 @@
+obj_to_spawn = obj_kinoko_hammer;
