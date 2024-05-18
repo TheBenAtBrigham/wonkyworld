@@ -13,7 +13,7 @@
 # Development Environment
 
 {Describe the tools that you used to develop the software}
-This project was created as an empty project in the GameMaker Engine and was written entirely in the Engine's proprietary coding language GML Code, which is similar to C#. This project did NOT use the drag and drop method known as GML Visual. 
+This project was created as an empty project in the GameMaker Engine and was written entirely in the Engine's proprietary coding language GML Code, which is similar to C#. This project did **NOT** use the drag and drop method known as GML Visual. 
 
 # Useful Websites
 
