@@ -21,6 +21,7 @@
 {Make a list of websites that you found helpful in this project}
 * [YouTube](https://www.youtube.com/)
 * [GameMaker Community](https://forum.gamemaker.io/index.php)
+* [Github] (https://github.com) - A very special shout out to [Bennett Foddy] (https://github.com/NYUGameCenter/GameMaker-Git-Config)!
 
 # Future Work
 
