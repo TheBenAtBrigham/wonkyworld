@@ -1,14 +1,9 @@
 # Overview
 
-{Important!  Do not say in this section that this is college assignment.  Talk about what you are trying to accomplish as a software engineer to further your learning.}
+This game is a platformer demo created to test creating platformer mechanics akin to both Super Mario and Getting Over It.
+Arrow keys for moving the player, space for jump, Q for run, and move the mouse for controlling the flying hammer's position. The flying hammer takes 5 swings before being discarded and taking a hammer mushroom while having an active flying hammer will regenerate the hammer back to 5 health points; Say that you have used up 3 swings on your hammer, you will get those three swings back when you pick up a hammer mushroom. Black boxes will kill the player no matter if they have grown larger due to the super mushroom.
 
-{Provide a description the game that you wrote. Describe how to play your game.}
-
-{Describe your purpose for writing this software.}
-
-{Provide a link to your YouTube demonstration.  It should be a 4-5 minute demo of the game being played and a walkthrough of the code.}
-
-[Software Demo Video](http://youtube.link.goes.here)
+[Software Demo Video](https://drive.google.com/file/d/1Vvru7uKaTvBNn_933lh0RYSC06mdvlb0/view?usp=sharing)
 
 # Development Environment
 
@@ -20,7 +15,7 @@ This project was created as an empty project in the GameMaker Engine and was wri
 {Make a list of websites that you found helpful in this project}
 * [YouTube](https://www.youtube.com/)
 * [GameMaker Community](https://forum.gamemaker.io/index.php)
-* [Github](https://github.com) - A very special shout out to [Bennett Foddy](https://github.com/NYUGameCenter/GameMaker-Git-Config)! Who inspired some of this games mechanics.
+* [Github](https://github.com)
 
 # Future Work
 
